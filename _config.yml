@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.5417784
 color:
   saturation: 0.4070923
   brandStrength: 1
   lightness: 0.8843181
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#030303'
+    - '#F0DAFF'
+    - '#5C4B6E'
+    - '#2A4B03'
+    - '#8800A4'
   rhythmicContrast: 0.7985305
-typography_spectrum: 0.5417784
 layout_spectrum: 0.9622201
 name: SWINKELS.BE
