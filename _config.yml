@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.5417784
 color:
   saturation: 0.4070923
-  brandStrength: 0
-  rhythmicContrast: 0.7985305
+  brandStrength: 1
+  lightness: 0.8843181
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  lightness: 0.8843181
+  rhythmicContrast: 0.7985305
 layout_spectrum: 0.7527985
 name: SWINKELS.BE
