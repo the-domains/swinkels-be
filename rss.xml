@@ -4,21 +4,21 @@
         <description><![CDATA[SWINKELS.BE]]></description>
         <link>https://thegrid.ai/swinkels-be/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 21:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 21:40:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/swinkels-be/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to my personal page]]></title>
+            <description><![CDATA[<article><h1>Welcome to my personal page</h1><p>You and Me Rock !!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23fad1c5716bfb43b9fc19c6c2e80edf236aa550.jpg"></article>]]></description>
+            <link>https://thegrid.ai/swinkels-be/c0f03f94-5063-4a19-8337-bd2637be41ea/index.html</link>
+            <guid isPermaLink="false">c0f03f94-5063-4a19-8337-bd2637be41ea</guid>
+            <pubDate>Thu, 25 Feb 2016 21:39:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd50a407-655b-46db-8811-402ce3306bef.jpg">]]></description>
             <link>https://thegrid.ai/swinkels-be/b2687e45-5ae8-4f6d-a653-d4fa3341fe7d/index.html</link>
             <guid isPermaLink="false">b2687e45-5ae8-4f6d-a653-d4fa3341fe7d</guid>
             <pubDate>Wed, 24 Feb 2016 21:37:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff022214-f000-4a7b-b3a5-2d9cab3ab3e0.jpg">]]></description>
-            <link>https://thegrid.ai/swinkels-be/c0f03f94-5063-4a19-8337-bd2637be41ea/index.html</link>
-            <guid isPermaLink="false">c0f03f94-5063-4a19-8337-bd2637be41ea</guid>
-            <pubDate>Wed, 24 Feb 2016 21:37:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
