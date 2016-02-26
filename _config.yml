@@ -1,3 +1,7 @@
+name: SWINKELS.BE
+favicon: null
+layout_spectrum: 0.4552239
+typography_spectrum: 0.5417784
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.5417784
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4070923
-  brandStrength: 0
-  lightness: 0.8843181
   brandColors:
     - '#030303'
     - '#F0DAFF'
     - '#5C4B6E'
     - '#2A4B03'
     - '#8800A4'
+  brandStrength: 0
+  lightness: 0.8843181
+  saturation: 0
   rhythmicContrast: 0.7985305
-layout_spectrum: 0.4552239
-name: SWINKELS.BE
+purpose: []
