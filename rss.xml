@@ -4,7 +4,7 @@
         <description><![CDATA[SWINKELS.BE]]></description>
         <link>http://swinkels.be/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 18:49:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 18:50:14 GMT</lastBuildDate>
         <atom:link href="http://swinkels.be/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Blog!]]></title>
@@ -12,6 +12,13 @@
             <link>http://swinkels.be/blog/index.html</link>
             <guid isPermaLink="false">ec4cb561-bdf4-458c-be33-71e33bdb3245</guid>
             <pubDate>Tue, 21 Jun 2016 18:31:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Blogs</p>]]></description>
+            <link>http://swinkels.be/blogs/index.html</link>
+            <guid isPermaLink="false">04a34dfd-dfab-4d10-a3c3-8adc2b1114fc</guid>
+            <pubDate>Tue, 21 Jun 2016 18:50:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
