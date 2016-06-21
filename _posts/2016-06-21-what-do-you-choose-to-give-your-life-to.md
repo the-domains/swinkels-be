@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: What do you choose to give your life to?
-datePublished: '2016-06-21T21:23:26.166Z'
-dateModified: '2016-06-21T21:23:14.628Z'
+datePublished: '2016-06-21T21:23:52.270Z'
+dateModified: '2016-06-21T21:23:38.842Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-21-what-do-you-choose-to-give-your-life-to.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: what-do-you-choose-to-give-your-life-to/index.html
 _type: Article
 
