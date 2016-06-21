@@ -4,7 +4,7 @@
         <description><![CDATA[SWINKELS.BE]]></description>
         <link>http://swinkels.be/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 18:50:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 18:53:41 GMT</lastBuildDate>
         <atom:link href="http://swinkels.be/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Blog!]]></title>
@@ -26,13 +26,6 @@
             <link>http://swinkels.be/what-do-you-choose-to-give-your-life-to/index.html</link>
             <guid isPermaLink="false">ac76abae-6f94-4d58-9733-70b130dc1e62</guid>
             <pubDate>Tue, 21 Jun 2016 18:49:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid]]></title>
-            <description><![CDATA[<article><h1>The Grid</h1></article>]]></description>
-            <link>https://app.thegrid.io/sites/ed11edac-fee3-4f0f-8249-9388fe3a8720</link>
-            <guid isPermaLink="false">68d12dc5-d949-4848-9af2-31df700eb672</guid>
-            <pubDate>Tue, 21 Jun 2016 18:47:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
