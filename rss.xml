@@ -4,7 +4,7 @@
         <description><![CDATA[SWINKELS.BE]]></description>
         <link>http://swinkels.be/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 21:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 21:26:42 GMT</lastBuildDate>
         <atom:link href="http://swinkels.be/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -16,9 +16,9 @@
         <item>
             <title><![CDATA[Contact]]></title>
             <description><![CDATA[<article><h1>Contact</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/056031fe999922de9eb0847315cd7962/croprotate.jpg?cropheight=3357&cropwidth=4912&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fee8761ee-7f6b-4648-a70a-b69ef816ea3c.jpg&x=38&y=0"></article>]]></description>
-            <link>http://jorisswinkels.nl/contact/</link>
+            <link>http://swinkels.be/contact/index.html</link>
             <guid isPermaLink="false">5f3ffbe1-6949-4508-a53f-4b629af7599e</guid>
-            <pubDate>Tue, 21 Jun 2016 21:25:54 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2016 21:26:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
