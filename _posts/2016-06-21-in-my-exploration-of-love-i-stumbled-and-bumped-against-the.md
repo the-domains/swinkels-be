@@ -7,15 +7,15 @@ keywords: []
 description: >-
   In my exploration of LOVE, I stumbled and bumped against the word Hate, thank
   you for letting me share what I saw.
-datePublished: '2016-06-21T21:46:29.052Z'
-dateModified: '2016-06-21T21:46:28.574Z'
+datePublished: '2016-08-18T19:11:05.047Z'
+dateModified: '2016-06-21T22:00:05.193Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-06-21-in-my-exploration-of-love-i-stumbled-and-bumped-against-the.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-21-in-my-exploration-of-love-i-stumbled-and-bumped-against-the.md
 url: in-my-exploration-of-love-i-stumbled-and-bumped-against-the/index.html
 _type: Article
 
